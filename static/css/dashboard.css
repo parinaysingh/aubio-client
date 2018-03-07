@@ -1,0 +1,96 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+.header,
+.footer {
+  height: 60px;
+  width: 100%;
+  background-color: #333333;
+  position: fixed;
+}
+.header {
+  top: 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+.header .user {
+  float: right;
+  color: #ffffff;
+  text-decoration: none;
+  line-height: 60px;
+  margin-right: 30px;
+}
+.footer {
+  bottom: 0;
+}
+.main {
+  width: 78%;
+  height: 600px;
+}
+.container {
+  margin-top: 60px;
+}
+.playlist {
+  width: 22%;
+  height: 600px;
+  float: right;
+  background-color: #333;
+}
+.playlist div {
+  margin: 0 auto;
+  width: 95%;
+  background-color: #ffffff;
+  height: 600px;
+}
+.logo {
+  float: left;
+  line-height: 75px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.search {
+  line-height: 75px;
+}
+.search input {
+  float: left;
+  margin-top: 15px;
+  width: 30%;
+  height: 25px;
+}
+.search .material-icons {
+  box-shadow: 0 0 3px #ffffff;
+  padding: 3px 5px 0 5px;
+  color: #ffffff;
+  cursor: pointer;
+}
+.footer {
+  color: #cccccc;
+  padding: 10px;
+  height: 40px;
+}
+.footer .album-cover {
+  height: 100%;
+  max-width: 80px;
+}
+.footer .song-details {
+  display: inline-block;
+  vertical-align: 10px;
+  margin-left: 10px;
+}
+.footer .song-details .song-name {
+  font-size: 0.8em;
+}
+.footer .song-details .artist {
+  font-size: 0.8em;
+}
+.footer .player-controls {
+  float: right;
+  margin: 10px 20px 0 0;
+}
+.footer .player-controls .volume {
+  margin-left: 10px;
+}
+.playlist .song .album-cover {
+  width: 50px;
+}
