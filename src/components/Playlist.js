@@ -7,9 +7,114 @@ class Playlist extends React.Component {
                 <div className="song">
                     <img className="album-cover" src={require('../../static/images/hbt.jpeg')} alt=""/>
                     <div className="song-details">
-                        <div className="song-name"><strong>Somewhere I Belong</strong></div>
+                        <div className="song-name"><strong>Over n over n over again</strong></div>
                         <div className="artist"><small>Linkin Park</small></div>
                     </div>
+                    <span className="material-icons remove">close</span>
+                </div>
+                <div className="song">
+                    <img className="album-cover" src={require('../../static/images/hbt.jpeg')} alt=""/>
+                    <div className="song-details">
+                        <div className="song-name"><strong>Over n over n over again</strong></div>
+                        <div className="artist"><small>Linkin Park</small></div>
+                    </div>
+                    <span className="material-icons remove">close</span>
+                </div>
+                <div className="song">
+                    <img className="album-cover" src={require('../../static/images/hbt.jpeg')} alt=""/>
+                    <div className="song-details">
+                        <div className="song-name"><strong>Over n over n over again</strong></div>
+                        <div className="artist"><small>Linkin Park</small></div>
+                    </div>
+                    <span className="material-icons remove">close</span>
+                </div>
+                <div className="song">
+                    <img className="album-cover" src={require('../../static/images/hbt.jpeg')} alt=""/>
+                    <div className="song-details">
+                        <div className="song-name"><strong>Over n over n over again</strong></div>
+                        <div className="artist"><small>Linkin Park</small></div>
+                    </div>
+                    <span className="material-icons remove">close</span>
+                </div>
+                <div className="song">
+                    <img className="album-cover" src={require('../../static/images/hbt.jpeg')} alt=""/>
+                    <div className="song-details">
+                        <div className="song-name"><strong>Over n over n over again</strong></div>
+                        <div className="artist"><small>Linkin Park</small></div>
+                    </div>
+                    <span className="material-icons remove">close</span>
+                </div>
+                <div className="song">
+                    <img className="album-cover" src={require('../../static/images/hbt.jpeg')} alt=""/>
+                    <div className="song-details">
+                        <div className="song-name"><strong>Over n over n over again</strong></div>
+                        <div className="artist"><small>Linkin Park</small></div>
+                    </div>
+                    <span className="material-icons remove">close</span>
+                </div>
+                <div className="song">
+                    <img className="album-cover" src={require('../../static/images/hbt.jpeg')} alt=""/>
+                    <div className="song-details">
+                        <div className="song-name"><strong>Over n over n over again</strong></div>
+                        <div className="artist"><small>Linkin Park</small></div>
+                    </div>
+                    <span className="material-icons remove">close</span>
+                </div>
+                <div className="song">
+                    <img className="album-cover" src={require('../../static/images/hbt.jpeg')} alt=""/>
+                    <div className="song-details">
+                        <div className="song-name"><strong>Over n over n over again</strong></div>
+                        <div className="artist"><small>Linkin Park</small></div>
+                    </div>
+                    <span className="material-icons remove">close</span>
+                </div>
+                <div className="song">
+                    <img className="album-cover" src={require('../../static/images/hbt.jpeg')} alt=""/>
+                    <div className="song-details">
+                        <div className="song-name"><strong>Over n over n over again</strong></div>
+                        <div className="artist"><small>Linkin Park</small></div>
+                    </div>
+                    <span className="material-icons remove">close</span>
+                </div>
+                <div className="song">
+                    <img className="album-cover" src={require('../../static/images/hbt.jpeg')} alt=""/>
+                    <div className="song-details">
+                        <div className="song-name"><strong>Over n over n over again</strong></div>
+                        <div className="artist"><small>Linkin Park</small></div>
+                    </div>
+                    <span className="material-icons remove">close</span>
+                </div>
+                <div className="song">
+                    <img className="album-cover" src={require('../../static/images/hbt.jpeg')} alt=""/>
+                    <div className="song-details">
+                        <div className="song-name"><strong>Over n over n over again</strong></div>
+                        <div className="artist"><small>Linkin Park</small></div>
+                    </div>
+                    <span className="material-icons remove">close</span>
+                </div>
+                <div className="song">
+                    <img className="album-cover" src={require('../../static/images/hbt.jpeg')} alt=""/>
+                    <div className="song-details">
+                        <div className="song-name"><strong>Over n over n over again</strong></div>
+                        <div className="artist"><small>Linkin Park</small></div>
+                    </div>
+                    <span className="material-icons remove">close</span>
+                </div>
+                <div className="song">
+                    <img className="album-cover" src={require('../../static/images/hbt.jpeg')} alt=""/>
+                    <div className="song-details">
+                        <div className="song-name"><strong>Over n over n over again</strong></div>
+                        <div className="artist"><small>Linkin Park</small></div>
+                    </div>
+                    <span className="material-icons remove">close</span>
+                </div>
+                <div className="song">
+                    <img className="album-cover" src={require('../../static/images/hbt.jpeg')} alt=""/>
+                    <div className="song-details">
+                        <div className="song-name"><strong>Over n over n over again</strong></div>
+                        <div className="artist"><small>Linkin Park</small></div>
+                    </div>
+                    <span className="material-icons remove">close</span>
                 </div>
 
             </div>

@@ -7,9 +7,10 @@ class Footer extends React.Component {
             <div className="footer">
                 <img className="album-cover" src={require('../../static/images/hbt.jpeg')} alt=""/>
                 <div className="song-details">
-                    <div className="song-name"><strong>Somewhere I Belong</strong></div>
+                    <div className="song-name"><strong>Over n over n over again</strong></div>
                     <div className="artist"><small>Linkin Park</small></div>
                 </div>
+                <span className="material-icons heart">favorite</span>
                 <div className="player-controls">
                     <i className="material-icons">skip_previous</i>
                     <i className="material-icons">play_circle_filled</i>
